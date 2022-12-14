@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    height: 100%;
+}
+.top{
+    height: 60px;
+    background-color: red;
+}
+
+.logo{
+    width: 86px;
+}
+
+.hidden{
+    visibility: hidden;
+}
