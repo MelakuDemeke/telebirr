@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "04494840729500c1818fc87f5808f38d",
+    "packages": [
+        {
+            "name": "melaku/telebirr",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MelakuDemeke/telebirr-php.git",
+                "reference": "45017042fb3b4727d8d9f7f0246b03c4a8498a28"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MelakuDemeke/telebirr-php/zipball/45017042fb3b4727d8d9f7f0246b03c4a8498a28",
+                "reference": "45017042fb3b4727d8d9f7f0246b03c4a8498a28",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Melaku\\Telebirr\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "MelakuDemeke",
+                    "email": "melaku.demeke789@gmail.com"
+                }
+            ],
+            "description": "a telebirr library for php",
+            "support": {
+                "issues": "https://github.com/MelakuDemeke/telebirr-php/issues",
+                "source": "https://github.com/MelakuDemeke/telebirr-php/tree/v0.1.0"
+            },
+            "time": "2022-12-17T09:22:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
